@@ -1,4 +1,4 @@
-# Version: 1.0.1
+# Version: 2.0
 # Built using GitHub Actions
 import os
 import re
